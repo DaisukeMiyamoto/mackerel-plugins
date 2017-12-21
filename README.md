@@ -1,6 +1,10 @@
 # mackerel-plugins
 util plugins for my environment
 
+- get VPN status by nmcli
+- measure CPU Core temprature by lm-sensors
+
+
 ## /etc/mackerel-agent/mackerel-agent.conf
 
 ```
