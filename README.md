@@ -5,8 +5,8 @@ util plugins for my environment
 
 ```
 [plugin.metrics.vpn]
-command = "PATH_TO_COMMAND/check_vpn.sh"
+command = "bash PATH_TO_COMMAND/check_vpn.sh"
 
 [plugin.metrics.temp]
-command = "PATH_TO_COMMAND/get_temp.sh"
+command = "bash PATH_TO_COMMAND/get_temp.sh"
 ```
